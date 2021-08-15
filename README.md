@@ -8,6 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardosilva218&repo=PrancingPonySharp&theme=tokyonight)](https://github.com/eduardosilva218/PrancingPonySharp)
 
 <a href="https://www.nuget.org/packages?q=PrancingPonySharp"> <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" /> </a> 
+![avatar](/gif/avatar.gif)
 
 ### Contact 📫
 
