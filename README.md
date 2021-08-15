@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**eduardosilva218/eduardosilva218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on dotnet
+- 🌱 I'm always learning new technologies
+- 😄 Pronouns: He
+##
 
-Here are some ideas to get you started:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardosilva218&repo=PrancingPonySharp&theme=dark)](https://github.com/eduardosilva218/PrancingPonySharp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.nuget.org/packages/PrancingPonySharp.Maybe/"> <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" /> </a>
+
+##
+### Contact 📫
+
+<a href="https://www.linkedin.com/in/eduardosilva218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:eduardo.silva218@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
