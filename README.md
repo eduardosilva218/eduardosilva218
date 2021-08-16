@@ -6,7 +6,7 @@
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardosilva218&repo=PrancingPonySharp&theme=dark)](https://github.com/eduardosilva218/PrancingPonySharp)⠀<img src="https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif" height="140" width="160" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eduardosilva218&repo=PrancingPonySharp&theme=dark)](https://github.com/eduardosilva218/PrancingPonySharp)⠀<img src="https://i.pinimg.com/originals/7b/df/16/7bdf164aaed98d4336084d0b33e3e588.gif" height="140" width="170" />
 
 <a href="https://www.nuget.org/packages?q=PrancingPonySharp"> <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" /> </a> 
 
