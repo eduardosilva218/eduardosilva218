@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 🙋‍♂️
 
 - 🔭 I’m currently working on dotnet
 - 🌱 I'm always learning new technologies
