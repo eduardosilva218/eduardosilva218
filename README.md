@@ -1,6 +1,6 @@
 ### Hello 🙋‍♂️
 
-- 🔭 I’m currently working on dotnet
+- 🔭 I’m currently working on .NET
 - 🌱 I'm always learning new technologies
 
 ### Contact 📫
