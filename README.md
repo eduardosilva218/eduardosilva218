@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on .NET
 - 🌱 I'm always learning new technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosilva218&langs_count=4&theme=radical&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardosilva218&langs_count=10&theme=radical&hide=html&layout=compact)
 
 ### Contact 📫
 
